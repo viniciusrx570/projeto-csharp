@@ -1,0 +1,15 @@
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.exe
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.deps.json
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.runtimeconfig.json
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.dll
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\bin\Debug\net8.0\JogoDaForca.pdb
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.AssemblyInfo.cs
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.sourcelink.json
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.dll
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\refint\JogoDaForca.dll
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.pdb
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\JogoDaForca.genruntimeconfig.cache
+C:\Users\Vinid\OneDrive\Documentos\Repositorio\projetos_csharp\JogoDaForca\JogoDaForca\obj\Debug\net8.0\ref\JogoDaForca.dll
